@@ -1,31 +1,65 @@
-# 💫 About Me:
-## Hi, I am Ahaan ⭐<br><br>🧠 I'm a Backend developer at Intangles Lab<br/><br>🚚🔭 I’m currently working on real-time alert pipelines and scalable backend systems for video telematics and IoT<br/><br>👯 I’m looking to collaborate on backend-heavy projects involving MQTT, Kafka, or large-scale system design<br/><br>🤝 I’m looking for help with optimizing async Python workloads and contributing to open-source observability tools<br/><br>🌱 I’m currently learning about distributed tracing and time-series data modeling<br/><br>💬 Ask me about high-throughput messaging, COTA systems, or backend architecture at scale<br/><br>⚡ Fun fact: I once refactored a live alert system to handle 80+ messages/sec with 40% less latency<br/> <br>🧰 End-to-end system design covering microservices, message brokers, and cloud-native components<br/><br>🛠️ Tech Stack: Node.js, Python, Kafka, MQTT, RabbitMQ, Protobuf, S3, PostgreSQL, MongoDB, Redis<br/><br>🚀 Focused on performance, reliability, and scalability for real-world IoT and video telematics systems<br/><br>📩 Here is my linkdin - https://www.linkedin.com/in/ahaansoni2618/
+<h1 align="left">
+  Hi, I'm Ahaan
+  <picture><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /></picture>
+</h1>
 
+<p align="left">
+  <b>Backend Engineer</b> · Bengaluru, India · 5+ years
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahaansoni2618) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahaaansoni@gmail.com) 
+<p align="left">
+  I build large-scale backend systems for <b>banking, payments, IoT, and consumer platforms</b>.
+  Most days I'm thinking about <b>event-driven architecture, idempotency, audit trails, and what happens when half a request succeeds</b>.
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![CircleCI](https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ahaan-2618&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ahaan-2618&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahaan-2618&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ahaan-2618&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ahaan-2618&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="left">
+  <a href="https://ahaan-2618.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ahaan--2618.github.io-f5a524?style=flat-square&labelColor=18181b" /></a>
+  <a href="https://linkedin.com/in/ahaansoni2618"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ahaansoni2618-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=18181b" /></a>
+  <a href="mailto:ahaaansoni@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ahaaansoni%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=18181b" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ahaan-2618&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ahaaan) 
+### Currently
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🔨 Backend at **Nagarro** — config-driven STP workflows for a global banking client
+- 🛠️ Building **[SIKKA](https://github.com/Ahaan-2618)** — a crypto payments platform (wallets, transactions, audit logs via Postgres triggers)
+- 📚 Going deep on **distributed systems, payments infrastructure, and idempotency design**
+
+---
+
+### Stack I actually use
+
+```
+Languages   →  TypeScript · Python · JavaScript
+Backend     →  Node.js · NestJS · Express · REST · WebSockets
+Messaging   →  Kafka · RabbitMQ · MQTT · Protobuf
+Data        →  PostgreSQL · MongoDB · Redis · DynamoDB
+Cloud       →  AWS (EC2 · Lambda · API Gateway · S3) · Docker
+Observability  →  Grafana · Prometheus · Kibana · AppDynamics
+```
+
+---
+
+### Things I've shipped at scale
+
+- 🛰️ Real-time pipeline ingesting telemetry from **15,000+ devices every 2 minutes** (Kafka)
+- 📡 Multi-tenant COTA managing **10,000+ edge devices** via MQTT + RabbitMQ; cut payload **~70%** with Protobuf
+- ⚡ Python consumer at **80+ msg/sec** for safety alerts; **40% latency reduction** via async S3 retrieval
+- 🏦 Pan-India insurance platform managing **₹36,000+ Cr in policies** across 10+ partner banks
+
+---
+
+### GitHub Stats
+
+<a href="https://github.com/Ahaan-2618">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahaan-2618&show_icons=true&hide_border=true&hide=issues&theme=dark&bg_color=0d1117&title_color=f5a524&icon_color=f5a524&text_color=c9d1d9" alt="GitHub Stats" height="155" />
+</a>
+
+---
+
+### Get in touch
+
+I'm open to senior backend roles, contract work, or just a good conversation about distributed systems. The **[portfolio](https://ahaan-2618.github.io)** has my full experience, projects, and stack. Or just [drop me an email](mailto:ahaaansoni@gmail.com).
+
+<sub>I'm not actively writing blog posts (yet), but I read a lot and I'm always up for a system-design conversation.</sub>
