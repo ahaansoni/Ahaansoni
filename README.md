@@ -14,7 +14,7 @@
 
 <p align="left">
   <a href="https://ahaansoni.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ahaansoni.github.io-f5a524?style=flat-square&labelColor=18181b" /></a>
-  <a href="https://linkedin.com/in/ahaansoni2618"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ahaansoni2618-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=18181b" /></a>
+  <a href="https://linkedin.com/in/ahaansoni"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-ahaansoni-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=18181b" /></a>
   <a href="mailto:ahaaansoni@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ahaaansoni%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=18181b" /></a>
 </p>
 
